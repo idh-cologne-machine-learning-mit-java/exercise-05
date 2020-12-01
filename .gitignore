@@ -1,0 +1,7 @@
+.classpath
+.idea
+.settings
+.project
+
+src/main/resources/amazon/test.arff
+src/main/resources/amazon/train.arff
